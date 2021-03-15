@@ -1,8 +1,8 @@
 # eCommerceAPI
 
-###Under development
+### Under development
 
-##Steps
+## Steps
 
 - [X] MongoDB Connection
 - [ ] Product/s CRUD
