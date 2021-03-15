@@ -4,11 +4,11 @@
 
 ##Steps
 
-- [*] MongoDB Connection
-- [] Product/s CRUD
-- [] Categories CRUD
-- [] User and profile
-- [] Cart
-- [] Purchasing
+- [X] MongoDB Connection
+- [ ] Product/s CRUD
+- [ ] Categories CRUD
+- [ ] User and profile
+- [ ] Cart
+- [ ] Purchasing
 
 and etc.
