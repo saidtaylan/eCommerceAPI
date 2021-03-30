@@ -1,9 +1,0 @@
-POST http://localhost/sellers HTTP/2.0
-Content-Type: application/json
-
-{
-    "name":"Said",
-    "lastname":"Taylan",
-    "email":"saidtaylann@gmail.com",
-    "password":"123456789"
-}
