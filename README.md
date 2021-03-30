@@ -2,6 +2,6 @@
 
 
 - [x] MongoDB Connection
-- [x] Produduct And Seller CRUD
+- [x] Product And Seller CRUD
 - [ ] Categories CRUD
 - [ ] Authentication and Authorization 
