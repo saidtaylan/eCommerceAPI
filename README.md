@@ -1,7 +1,7 @@
 # Very Simple eCommerceAPI
 
 
-- [ X ] MongoDB Connection
-- [ X ] Produduct And Seller CRUD
-- [   ] Categories CRUD
-- [   ] Authentication and Authorization 
+- [x] MongoDB Connection
+- [x] Produduct And Seller CRUD
+- [ ] Categories CRUD
+- [ ] Authentication and Authorization 
